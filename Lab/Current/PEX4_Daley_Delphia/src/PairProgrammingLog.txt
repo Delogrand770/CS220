@@ -1,0 +1,17 @@
+Pair Programming Log File
+==== =========== === ====
+
+Driver                 Navigator               Duration
+====================   ====================    ========
+Daley                   Delphia                 30
+Delphia                 Daley                   25
+Daley                   Delphia                 15
+Delphia                 Daley                   30
+Daley                   Delphia                 20
+Delphia                 Daley                   25
+Daley                   Delphia                 25
+Delphia                 Daley                   15
+
+Total Driving Time
+Daley: 80 min
+Delphia: 95 min

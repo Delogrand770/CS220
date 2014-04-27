@@ -1,0 +1,14 @@
+Pair Programming Log File
+==== =========== === ====
+
+Driver                 Navigator               Duration
+====================   ====================    ========
+Jared Peterson          Gavin Delphia           1hr
+Gavin Delphia           Jared Peterson          1hr
+Jared Peterson          Gavin Delphia           1min
+Gavin Delphia           Jared Peterson          1min
+
+
+Total Driving Time
+Jared Peterson: 2hr
+Gavin Delphia:  2hr
